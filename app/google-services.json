@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935523815242",
+    "project_id": "fir-phonebook-app-81b48",
+    "storage_bucket": "fir-phonebook-app-81b48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935523815242:android:c3b65673b4120fb373bbb3",
+        "android_client_info": {
+          "package_name": "com.example.phonebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArgK1QrVsU_WoZAmMy-Eai1OFv-Qi5loA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
