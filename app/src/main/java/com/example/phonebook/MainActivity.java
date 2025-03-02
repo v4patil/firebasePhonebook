@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main);
 
         database = FirebaseDatabase.getInstance();
-        databaseReference = database.getReference();
+        databaseReference = database.getReference("Users");
 
         databaseReference.addValueEventListener(new ValueEventListener() {
             @Override
